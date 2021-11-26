@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tela de Login</title>
+    <title>Sobre o Casep</title>
     <style>
         body{
             font-family: Arial, Helvetica, sans-serif;
@@ -43,16 +43,17 @@
     </style>
 </head>
 <body>
-    <a href="index.php">Voltar</a>
+	<a href="index.php">Voltar</a>
+   
     <div>
-        <h1>Login</h1>
-        <form action="testLogin.php" method="POST">
-            <input type="text" name="email" placeholder="Email">
-            <br><br>
-            <input type="password" name="senha" placeholder="Senha">
-            <br><br>
-            <input class="inputSubmit" type="submit" name="submit" value="Enviar">
-        </form>
+        <h1>CASEP</h1>
+        <p>Com objetivo de implantar um sistema de
+            banco de dados dos usuários de serviços de emergências do país, visando seu impacto na
+            agilidade e confiança de informações para desta forma melhorar o atendimento dos serviços de
+            emergência.</p>
+        <p>Ressaltando a importância das informações corretas sobre os usuários dos
+            serviços de emergência utilizando a ferramenta CASEP. Tem como objetivo geral contribuir
+            para melhorar no atendimento de emergência do pais.</p>
     </div>
 </body>
 </html>

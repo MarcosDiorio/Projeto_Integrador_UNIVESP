@@ -1,9 +1,9 @@
 <?php
 
-    $dbHost = 'Localhost';
-    $dbUsername = 'root';
-    $dbPassword = '@!localpi1234@!';
-    $dbName = 'formulario-pi';
+    $dbHost = 'mysql524.umbler.com';
+    $dbUsername = 'caseppi';
+    $dbPassword = 'x|5aqTxF/RG7';
+    $dbName = 'casep-pi';
 
     $conexao = new mysqli($dbHost,$dbUsername,$dbPassword,$dbName);
 
